@@ -1,0 +1,45 @@
+# TODO
+
+- [ ] Set up the project structure.
+- [ ] Set up the development environment.
+- [ ] Create a basic debugger class.
+- [ ] Implement a method to attach the debugger to a Python process.
+- [ ] Implement a method to detach the debugger from a Python process.
+- [ ] Add functionality to pause the execution.
+- [ ] Add functionality to resume the execution.
+- [ ] Implement 'step over' functionality.
+- [ ] Implement 'step into' functionality.
+- [ ] Implement 'step out' functionality.
+- [ ] Add functionality to set breakpoints.
+- [ ] Add functionality to remove breakpoints.
+- [ ] Implement a call stack viewer.
+- [ ] Add functionality to view local variables at the current breakpoint.
+- [ ] Add functionality to view global variables.
+- [ ] Implement functionality to evaluate expressions in the current context.
+- [ ] Add functionality to handle exceptions and provide debug information.
+- [ ] Implement historical tracing of object states.
+- [ ] Add functionality to visualize objects and their changes over time.
+- [ ] Implement live debugging for real-time code changes.
+- [ ] Add functionality to debug web tasks.
+- [ ] Add functionality to debug asynchronous jobs.
+- [ ] Optimize the debugger for speed.
+- [ ] Optimize the debugger for memory usage.
+- [ ] Implement error handling mechanisms.
+- [ ] Implement recovery mechanisms after errors.
+- [ ] Add functionality to handle common debugging issues.
+- [ ] Implement a 'white-box' debugging experience.
+- [ ] Enhance real-time debugging with more features.
+- [ ] Improve object visualization with more details.
+- [ ] Improve object visualization with more options.
+- [ ] Implement a machine-learning based feedback mechanism.
+- [ ] Add customization options for users.
+- [ ] Implement support for mixed-language debugging.
+- [ ] Add functionality for collaborative debugging.
+- [ ] Integrate with a CI/CD tool for automated testing.
+- [ ] Write unit tests for all features.
+- [ ] Write integration tests for all features.
+- [ ] Document all features and usage.
+- [ ] Implement session management to save and load debugger settings.
+- [ ] Add functionality to remember the last open project.
+- [ ] Implement layout customization for the debugger interface.
+- [ ] Add functionality to save and load custom layouts.
