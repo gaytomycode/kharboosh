@@ -2,7 +2,7 @@
 
 ![Build Status](https://github.com/gaytomycode/kharboosh/actions/workflows/main.yml/badge.svg)
 
-![Meme of Debugger](meme.jpg.webp)
+![Meme of Debugger](meme.jpg)
 
 Kharboosh -pronounced /xarbu:ʃ/- is a robust debugging tool for Python that I believe will significantly enhance my coding experience.
 
