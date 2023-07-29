@@ -1,8 +1,10 @@
-# Python Debugger
+# Kharboosh
+
+![Build Status](https://github.com/gaytomycode/kharboosh/actions/workflows/main.yml/badge.svg)
 
 ![Meme of Debugger](meme.jpg.webp)
 
-This is a robust debugging tool for Python that I believe will significantly enhance my coding experience.
+Kharboosh -pronounced /xarbu:ʃ/- is a robust debugging tool for Python that I believe will significantly enhance my coding experience.
 
 ## Core Features
 
@@ -11,7 +13,7 @@ This is a robust debugging tool for Python that I believe will significantly enh
 * **Dynamic Object Visualization** - This provides a new way to view your objects, offering a deeper understanding of your code and data structures.
 * **Live Debugging** - Enabling you to debug your code in real-time, eliminating the need for separate testing.
 
-## Why Choose Python-Debugger?
+## Why Choose Kharboosh?
 
 * **Superior Stability** - It is designed to avoid common issues that can occur during the debugging process.
 * **Fast Performance** - Speed is a key focus, ensuring a smooth and efficient debugging experience.
@@ -28,8 +30,8 @@ I'm continuously working on adding features. Here's a glimpse into what's coming
 - [ ] **Personalization** - I understand that every developer has unique needs, so I'm working on offering more customization options.
 - [ ] **Extended Language Support** - I'm planning to add support for mixed-language debugging, making it easier to work with Python and other languages.
 - [ ] **Collaborative Debugging** - I'm developing a feature that will allow real-time collaborative debugging.
-- [ ] **Better Integrations** - I aim to integrate Python-Debugger with popular CI/CD tools to streamline the testing experience during development.
+- [ ] **Better Integrations** - I aim to integrate Kharboosh with popular CI/CD tools to streamline the testing experience during development.
 
 ## License
 
-This software is for viewing purposes only. Unauthorized cloning, running, copying, distributing, or modifying the software is prohibited. For using this software, you must purchase a license from Muhamed Hassan at his [website](https://debugger.gaytomycode.com). For more details, please see the [LICENSE](./LICENSE.md) file in this repository.
+This software is for viewing purposes only. Unauthorized cloning, running, copying, distributing, or modifying the software is prohibited. For using this software, you must purchase a license from Muhamed Hassan at his [website](https://kharboosh.gaytomycode.com). For more details, please see the [LICENSE](./LICENSE.md) file in this repository.
