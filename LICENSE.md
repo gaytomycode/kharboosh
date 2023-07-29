@@ -14,4 +14,4 @@ For any queries or to purchase a license, please contact:
 
 Author's Name: Muhamed Hassan
 Email: hi@gaytomycode.com
-Website: https://kharboosh.gaytomycode.com
+Website: https://gaytomycode.com
