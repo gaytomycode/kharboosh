@@ -34,4 +34,4 @@ I'm continuously working on adding features. Here's a glimpse into what's coming
 
 ## License
 
-This software is for viewing purposes only. Unauthorized cloning, running, copying, distributing, or modifying the software is prohibited. For using this software, you must purchase a license from Muhamed Hassan at his [website](https://gaytomycode.com). For more details, please see the [LICENSE](./LICENSE.md) file in this repository.
+This software is for viewing purposes only. Unauthorized cloning, running, copying, distributing, or modifying the software is prohibited. For using this software, you must purchase a license from Muhamed Hassan at his [website](https://kharboosh.gaytomycode.com). For more details, please see the [LICENSE](./LICENSE.md) file in this repository.
